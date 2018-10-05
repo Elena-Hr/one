@@ -28,12 +28,6 @@
         </div>
       </div>
 
-
-     
-      <!-- Marketing messaging and featurettes
-      ================================================== -->
-      <!-- Wrap the rest of the page in another container to center all the content. -->
-
       <div class="container marketing mt-4">
 
         <!-- Three columns of text below the carousel -->
