@@ -11,6 +11,7 @@
           <div class="col-md-12">
             <div class="slider">
               <div><img src="images/Koala.jpg"  title="Koala" alt=""></div>
+              <a>link</a>
               <div><img src="images/Hydrangeas.jpg" title="meduza" alt=""></div>
               <div><img src="images/Chrysanthemum.jpg" title="hrizantema" alt=""></div>
               <div><img src="images/Jellyfish.jpg" title="more" alt=""></div>
