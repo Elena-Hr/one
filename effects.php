@@ -8,6 +8,7 @@
         <div class="row">
           <div class="col-md-12">
             <h2 class="text-center">Effects</h2>
+            <h2>Ok</h2>
           </div>
           <div class="col-md-4">
             <div class="card">
